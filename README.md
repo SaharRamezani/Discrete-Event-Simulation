@@ -208,9 +208,3 @@ For example, if `n=10` and `k=8`, there are 2 parity blocks. Any 8 out of the 10
 
 ### 3. Can I simulate custom configurations?
 Yes, you can edit the `.cfg` files to set custom parameters (e.g., node counts, lifetimes, speeds, and storage sizes). You can also modify the Python code to add new event types or redundancy strategies.
-
----
-
-## Contact
-
-For further questions or feedback, please reach out via the repository's issue tracker or directly submit a pull request. Thank you for using this simulation framework!
